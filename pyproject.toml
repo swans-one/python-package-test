@@ -1,5 +1,5 @@
 [project]
-name = "uv-pkg-test"
+name = "swansone-uv-trusted-pub-test"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
